@@ -11,7 +11,7 @@
 
 1. Make sure you have `php5-json` installed and enabled
 2. Download the zip/repo/package
-3. Place it in `/var/www/` (for Apache); For nginx setup, see [this.](http://jrullman.com/k5rA/3xrc301S.conf)
+3. Place it in `/var/www/` (for Apache); For nginx setup, see [this.](https://gist.github.com/jakerullman/49ff0afdb21725408f6b)
 4. Optional: Secure access to the page via `.htaccess` or method of your choice
  
 
